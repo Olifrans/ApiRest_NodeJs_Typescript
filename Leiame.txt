@@ -1,6 +1,0 @@
-Curso de API Rest, Node e Typescript
-10 vídeos62 visualizaçõesAtualizada hoje
-
-
-
-Curso de NodeJS e Typescript iniciante. Esse curso é focado nas principais conceitos de um backend para crud. Vamos trabalhar com paginação, filtro, banco de dados sql, query builders, typescript e muito mais. É a porta de entrada para o mundo do Node JS no backend.
