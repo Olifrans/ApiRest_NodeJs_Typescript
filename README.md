@@ -98,6 +98,7 @@ yarn add -D ts-node-dev: Executar arquivo javascript em ambiente de desenvolvime
 
 
 
+Comand start:  yarn ts-node-dev ./src/index.ts
 
 
 
